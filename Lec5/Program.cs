@@ -4,3 +4,5 @@ if (gitTestSuccess == true)
 {
     Console.WriteLine("pakeitimai įrašyti");
 }
+
+//komentaras
